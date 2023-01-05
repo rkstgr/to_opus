@@ -1,5 +1,5 @@
 # to_opus
-Rust program to convert all .wav files to .opus
+Rust program to convert all .wav files (recursively) to .opus
 
 Usage
 ```shell
